@@ -1,1 +1,31 @@
-css
+
+body{
+	font-family:;
+	background-image: url(china.jpg);
+	background-size: cover;
+	
+}
+
+img{
+	border: solid black 5px;
+	width: 250px
+}
+
+p,ul{
+	font-size: 20px;
+	
+}
+
+h4{
+	font-size: 25px 
+}
+
+div{
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+	;
+	
+	
+}
