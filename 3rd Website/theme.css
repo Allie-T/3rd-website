@@ -1,7 +1,7 @@
 
 body{
-	font-family:;
-	background-image: url(china.jpg);
+	font-family: 'Crimson Text', serif; 
+	background-image: url(town.jpg);
 	background-size: cover;
 	
 }
@@ -13,19 +13,63 @@ img{
 
 p,ul{
 	font-size: 20px;
-	
+	margin-left: 20px;
+	margin-right: 20px;
+	line-height: 2em;
 }
 
+h1{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 50px;
+	text-decoration: underline 5px;
+}
+
+
 h4{
-	font-size: 25px 
+	font-size: 30px;
+	text-align: center;
+	background-color: 
+
 }
 
 div{
-	background-color: white;
-	margin-left: auto;
+	background-color: #c9621d;
+	margin-top: 100px;
 	margin-right: auto;
-	width: 900px;
-	;
-	
+	margin-left: auto;
+	margin-bottom: 100px;
+	width: 800px;
+	text-indent: 50px;
+	border: solid black 5px;
+
+}
+
+table{
+	font-size:20px;
+}
+
+
+a:link{
+	text-decoration: none;
+	color: #a8dadc;
 	
 }
+
+a:visited {
+	color: #a8dadc;
+}
+
+a:hover {
+	color: a8dadc;
+	
+}
+
+a:active{
+	color: white;
+}
+
+
+
+
+
